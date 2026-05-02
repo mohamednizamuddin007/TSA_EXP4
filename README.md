@@ -115,8 +115,10 @@ plt.show()
 ## OUTPUT:
 ## ORIGINAL DATA :
 <img width="986" height="528" alt="image" src="https://github.com/user-attachments/assets/a3fdcc6e-3144-4754-bd27-91430e71ef95" />
+
 ## ORIGINAL DATA ACF:
 <img width="1198" height="590" alt="image" src="https://github.com/user-attachments/assets/c0893b40-cb9c-416d-bfd1-9b9be764c1a6" />
+
 ## ORIGINAL DATA PACF:
 <img width="1198" height="590" alt="image" src="https://github.com/user-attachments/assets/43818968-a485-494a-acbe-559b2484f131" />
 
